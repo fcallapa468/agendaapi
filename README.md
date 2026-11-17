@@ -21,7 +21,7 @@ Laravel 13, PHP 8.5, PostgreSQL 18, Laravel Sanctum y Scramble. Probado en Fedor
 Requisitos: PHP 8.3 o superior con las extensiones `pdo_pgsql` y `mbstring`, Composer, PostgreSQL y Git.
 
 1. Clonar el repositorio y entrar a la carpeta: 
-git clone https://github.com/USUARIO/agendaapi.git
+git clone https://github.com/fcallapa468/agendaapi.git
     cd agendaapi
 
 Paso 2. Instalar las dependencias:
